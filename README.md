@@ -1,5 +1,3 @@
-# florentlouman-lang.git.io
-Lecteur audio modulable
 <!DOCTYPE html>
 <html lang="fr">
 <head>
